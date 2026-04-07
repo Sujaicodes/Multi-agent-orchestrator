@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "id": "tsk_001",
+      "title": "Finish quarterly report",
+      "status": "pending",
+      "deadline": "2026-04-10T12:00:00"
+    }
+  ],
+  "events": [
+    {
+      "id": "evt_001",
+      "title": "Team Standup",
+      "time": "2026-04-08T10:00:00"
+    }
+  ],
+  "notes": [
+    {
+      "id": "not_001",
+      "content": "User prefers no meetings before 10 AM.",
+      "tags": ["preferences", "scheduling"]
+    }
+  ]
+}
